@@ -1,0 +1,12 @@
+# Hard 4x4; generated reproducibly with seed 161
+SIZE
+4
+
+GIVENS
+2,2,3
+4,4,3
+
+INEQUALITIES
+1,2,<,2,2
+2,4,>,3,4
+4,1,<,4,2

@@ -1,0 +1,6 @@
+# 9 is outside the valid SIZE 4 domain
+SIZE
+4
+GIVENS
+1,1,9
+INEQUALITIES
